@@ -1,0 +1,10 @@
+{
+  
+  "vulcanuser": "ydbarve",
+  "git_repos": [
+    {
+      "directory": "indices_proj",
+      "url": "https://github.com/doc-vu/indices.git"
+    }
+  ]
+}
